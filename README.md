@@ -16,27 +16,32 @@
 
 ### Skills
 <p align="left">
-<img height=30 alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png" height=30 alt="Redux"  />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png" height=30 alt="SQL"/>
-<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgresql40" height="40"/>
-<img height=30 alt="Sequelize ORM" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://icongr.am/devicon/mocha-plain.svg?size=128&color=currentColor" alt="mocha" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/materialui/materialui-plain.svg" alt="materialui" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redis/redis-plain.svg" alt="redis" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisignaciocc&show_icons=true&theme=chartreuse-dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisignaciocc&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisignaciocc&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
