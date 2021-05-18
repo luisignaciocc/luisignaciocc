@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 <!-- ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg) -->
 <h1 align="center">Hi there 👋, I'm Luis Ignacio</h1>
 <h3 align="center">A fullstack developer with +3 years in the the tech industry</h3>
@@ -17,9 +16,8 @@
 
 ### Skills
 <p align="left">
-<i class="devicon-codeigniter-plain colored"></i>
 <img height=30 alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" height=30 alt="Redux"  />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
