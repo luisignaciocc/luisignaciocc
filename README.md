@@ -14,8 +14,6 @@
 
 - 📫 Contact me - **luisignacioccp@gmail.com**
 
-- 📞 Phone: **+56 9 3535 1405**
-
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
