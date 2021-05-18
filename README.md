@@ -51,5 +51,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luisignaciocc/"><img src="https://img.shields.io/badge/-Luis%20Cabezas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:matias.ariel.funes@gamil.com"><img src="https://img.shields.io/badge/-luisignacioccp@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:luisignacioccp@gamil.com"><img src="https://img.shields.io/badge/-luisignacioccp@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
