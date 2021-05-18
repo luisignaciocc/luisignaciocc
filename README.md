@@ -14,7 +14,7 @@
 
 - 📞 Phone: **+56 9 3535 1405**
 
-### Skills
+### 🛠 &nbsp;Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
@@ -38,8 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
-<p>
-<a href="https://github.com/AVS1508">
+<p align="center">
+<a href="https://github.com/luisignaciocc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisignaciocc&show_icons=true&theme=chartreuse-dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisignaciocc&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
 </a>
