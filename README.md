@@ -4,6 +4,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisignaciocc" alt="pydevsg" /> </p> -->
 
+### 👨🏻‍💻 &nbsp;About Me
+
 - 🧑🏻‍💻 Interested in data-related projects
 
 - 🚀 JavaScript | Python | PHP
@@ -38,6 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
+### ⚙️ &nbsp;GitHub Analytics
+  
 <p align="center">
 <a href="https://github.com/luisignaciocc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisignaciocc&show_icons=true&theme=chartreuse-dark" />
@@ -45,7 +49,7 @@
 </a>
 </p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luisignaciocc/"><img src="https://img.shields.io/badge/-Luis%20Cabezas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
