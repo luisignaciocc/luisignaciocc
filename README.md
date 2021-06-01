@@ -35,8 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redis/redis-plain.svg" alt="redis" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
 ### &nbsp;GitHub Analytics
   
