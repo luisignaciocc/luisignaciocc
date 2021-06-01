@@ -1,5 +1,5 @@
 <!-- ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg) -->
-<h1 align="center">Hi�, I'm Luis Ignacio</h1>
+<h1 align="center">Hi, I'm Luis Ignacio</h1>
 <h3 align="center">A fullstack developer with +3 years experience working in the the tech industry</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisignaciocc" alt="pydevsg" /> </p> -->
