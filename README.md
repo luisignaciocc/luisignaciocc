@@ -1,18 +1,18 @@
 <!-- ### ![hire-javascript-developer-banner](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg) -->
-<h1 align="center">Hi there 👋, I'm Luis Ignacio</h1>
-<h3 align="center">A fullstack developer with +3 years working in the the tech industry</h3>
+<h1 align="center">Hi�, I'm Luis Ignacio</h1>
+<h3 align="center">A fullstack developer with +3 years experience working in the the tech industry</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisignaciocc" alt="pydevsg" /> </p> -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
-- 🧑🏻‍💻 Interested in data-related projects
+- JavaScript | Python | PHP
 
-- 🚀 JavaScript | Python | PHP
+- Interested in data-related projects
 
-- ✌🏻 Santiago, Chile
+- Santiago, Chile
 
-- 📫 Contact me - **luisignacioccp@gmail.com**
+- My [Resume](https://drive.google.com/uc?export=download&id=1LH02Eo55qxOGSHm_FoAKAiykfFJOw95E)
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
   
 <p align="center">
 <a href="https://github.com/luisignaciocc">
@@ -47,7 +47,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luisignaciocc/"><img src="https://img.shields.io/badge/-Luis%20Cabezas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
