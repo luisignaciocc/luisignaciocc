@@ -14,7 +14,7 @@
 
 - My [Resume](https://drive.google.com/uc?export=download&id=1LH02Eo55qxOGSHm_FoAKAiykfFJOw95E)
 
-### 🛠 &nbsp;Tech Stack
+### &nbsp;My Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
