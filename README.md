@@ -12,7 +12,7 @@
 
 - Santiago, Chile
 
-- My [Resume](https://drive.google.com/uc?export=download&id=1eHSyxb0j3QQKXQZXE1trPj43gaDQl3W5)
+- My [Resume](https://drive.google.com/uc?export=download&id=10XjheT_58denQCNHpyb-paLvoI9Kf0Z0)
 
 ### &nbsp;My Tech Stack
 <p align="left">
