@@ -36,14 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redis/redis-plain.svg" alt="redis" width="40" height="40"/>
 
-### &nbsp;GitHub Analytics
-  
-<p align="center">
-<a href="https://github.com/luisignaciocc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisignaciocc&show_icons=true&theme=chartreuse-dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisignaciocc&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
 
 ### &nbsp;Connect with Me
 
