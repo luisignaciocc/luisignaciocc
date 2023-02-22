@@ -8,11 +8,11 @@
 
 - JavaScript | Python | PHP
 
-- Interested in data-related projects
+- Interested in Startups and data-related projects
 
 - Santiago, Chile
 
-- My [Resume](https://drive.google.com/uc?export=download&id=10XjheT_58denQCNHpyb-paLvoI9Kf0Z0)
+- My [Resume](https://docs.google.com/document/d/1ogmS5SQvA_-GiMjkPBb-AGSqSHRZBT8ee6lxtUD5-60/export?format=pdf)
 
 ### &nbsp;My Tech Stack
 <p align="left">
