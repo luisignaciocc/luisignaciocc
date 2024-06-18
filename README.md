@@ -12,7 +12,7 @@
 
 - Santiago, Chile
 
-- My [Resume](https://docs.google.com/document/d/1ogmS5SQvA_-GiMjkPBb-AGSqSHRZBT8ee6lxtUD5-60/export?format=pdf)
+- My [Resume](https://cv.luisignacio.cc/)
 
 ### &nbsp;My Tech Stack
 <p align="left">
