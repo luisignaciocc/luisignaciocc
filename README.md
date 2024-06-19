@@ -10,8 +10,6 @@
 
 - Interested in Startups and data-related projects
 
-- Santiago, Chile
-
 - My [Resume](https://cv.luisignacio.cc/)
 
 ### &nbsp;My Tech Stack
